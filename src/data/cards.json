@@ -1,0 +1,14 @@
+[
+    { "id": 1, "content": "img/apple.png" },
+    { "id": 1, "content": "img/apple.png" },
+    { "id": 2, "content": "img/dog.png" },
+    { "id": 2, "content": "img/dog.png" },
+    { "id": 3, "content": "img/elephant.png" },
+    { "id": 3, "content": "img/elephant.png" },
+    { "id": 4, "content": "img/indian flag.jpg" },
+    { "id": 4, "content": "img/indian flag.jpg" },
+    { "id": 5, "content": "img/ball.png" },
+    { "id": 5, "content": "img/ball.png" },
+    { "id": 6, "content": "img/car.png" },
+    { "id": 6, "content": "img/car.png" }
+]
